@@ -1,0 +1,50 @@
+ <br><br><br><br>
+    <div class="containeralooma" id="contact">
+        <section class="boxalooma">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="template4 h2alooma" style="margin-left: 400px; font-size: larger; font-family: Verdana, Geneva, Tahoma, sans-serif;">Frequently Asked Questions</h2>
+                <h4 class="template4 palooma" style="font-size:medium;">Can your staff help choose the perfect dumpster for my project? 
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Yes, our staff is happy to assist in selecting the best dumpster for your project. We consider the type of waste you need to dispose of, the weight of the materials, and the accessibility of the location to ensure we recommend the right dumpster for your needs.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Do you offer pickup service? 
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Definitely! We not only deliver dumpsters to your site but also ensure that the waste is disposed of in an eco-friendly manner, helping to keep your community clean and sustainable.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Do you accept all types of waste? 
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">No, we only accept non-hazardous waste. We do not accept hazardous waste, which includes combustible waste, corrosive waste, reactive waste, toxic waste, biohazardous waste, and radioactive waste.</p>
+                <h4 class="template4 palooma" style="font-size:large;">How do you ensure waste is disposed of in an eco-friendly manner?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">We dispose of waste in an eco-friendly manner by reducing the amount of waste that ends up in landfills, thereby helping to reduce carbon emissions. We achieve this by donating usable materials and recycling waste whenever possible.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Does your rental fee cover both delivery and pickup?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Yes, it does. Our rental fee includes both the delivery and pickup of the dumpster. We handle waste disposal responsibly and take care to protect your property during delivery and removal.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Do I need to dispose of the waste myself after filling the dumpster?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;"> No, you don’t need to worry about disposal. Your rental fee includes both delivery and pickup of the dumpster.</p>
+                <div class="callalooma mx-auto"><a href="tel:820-218-6680">Click Here To Call Us (820) 218-6680</a></div>
+            </div>
+        </div>
+        </section>
+       </div>
+
+    <br><br><br><br>
+    <div class="containeralooma">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">#State Insights: Population,<br> Zip Codes, Influence, and Service Areas</h2>
+        <p>aloomaidcontentscity</p>
+        <p style="color:black;">Zip Codes in #State that we also serve: <i>aloomaidzip</i></p>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">Cities Close To #State That We Also Serve</h2>
+        <div class="row">
+            aloomaidcitycloseto
+        </div>
+        <br><br>
+        aloomaidembeddedmap
+        </section>
+    </div>
